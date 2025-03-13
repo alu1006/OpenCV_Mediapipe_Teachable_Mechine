@@ -1,0 +1,4 @@
+0 Smile
+1 Angry
+2 Ma
+3 Kim
